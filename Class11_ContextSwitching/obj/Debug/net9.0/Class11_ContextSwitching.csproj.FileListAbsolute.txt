@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\bin\Debug\net9.0\Class11_ContextSwitching.exe
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\bin\Debug\net9.0\Class11_ContextSwitching.deps.json
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\bin\Debug\net9.0\Class11_ContextSwitching.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\bin\Debug\net9.0\Class11_ContextSwitching.dll
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\bin\Debug\net9.0\Class11_ContextSwitching.pdb
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.dll
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\refint\Class11_ContextSwitching.dll
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.pdb
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\Class11_ContextSwitching.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class11_ContextSwitching\obj\Debug\net9.0\ref\Class11_ContextSwitching.dll

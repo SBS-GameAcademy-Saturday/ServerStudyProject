@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class19_Network\bin\Debug\net9.0\Class19_Network.exe
+C:\Users\user\Github\ServerStudyProject\Class19_Network\bin\Debug\net9.0\Class19_Network.deps.json
+C:\Users\user\Github\ServerStudyProject\Class19_Network\bin\Debug\net9.0\Class19_Network.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class19_Network\bin\Debug\net9.0\Class19_Network.dll
+C:\Users\user\Github\ServerStudyProject\Class19_Network\bin\Debug\net9.0\Class19_Network.pdb
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.dll
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\refint\Class19_Network.dll
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.pdb
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\Class19_Network.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class19_Network\obj\Debug\net9.0\ref\Class19_Network.dll

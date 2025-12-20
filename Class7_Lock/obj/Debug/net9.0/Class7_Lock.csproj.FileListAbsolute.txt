@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\bin\Debug\net9.0\Class7_Lock.exe
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\bin\Debug\net9.0\Class7_Lock.deps.json
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\bin\Debug\net9.0\Class7_Lock.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\bin\Debug\net9.0\Class7_Lock.dll
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\bin\Debug\net9.0\Class7_Lock.pdb
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.dll
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\refint\Class7_Lock.dll
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.pdb
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\Class7_Lock.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class7_Lock\obj\Debug\net9.0\ref\Class7_Lock.dll

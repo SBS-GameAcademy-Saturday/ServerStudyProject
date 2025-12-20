@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\bin\Debug\net9.0\Class6_Interlocked.exe
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\bin\Debug\net9.0\Class6_Interlocked.deps.json
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\bin\Debug\net9.0\Class6_Interlocked.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\bin\Debug\net9.0\Class6_Interlocked.dll
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\bin\Debug\net9.0\Class6_Interlocked.pdb
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.dll
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\refint\Class6_Interlocked.dll
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.pdb
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\Class6_Interlocked.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class6_Interlocked\obj\Debug\net9.0\ref\Class6_Interlocked.dll

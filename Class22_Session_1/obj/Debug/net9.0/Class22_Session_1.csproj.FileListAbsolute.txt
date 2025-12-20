@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\bin\Debug\net9.0\Class22_Session_1.exe
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\bin\Debug\net9.0\Class22_Session_1.deps.json
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\bin\Debug\net9.0\Class22_Session_1.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\bin\Debug\net9.0\Class22_Session_1.dll
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\bin\Debug\net9.0\Class22_Session_1.pdb
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.dll
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\refint\Class22_Session_1.dll
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.pdb
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\Class22_Session_1.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class22_Session_1\obj\Debug\net9.0\ref\Class22_Session_1.dll

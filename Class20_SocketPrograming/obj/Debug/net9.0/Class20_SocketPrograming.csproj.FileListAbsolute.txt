@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\bin\Debug\net9.0\Class20_SocketPrograming.exe
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\bin\Debug\net9.0\Class20_SocketPrograming.deps.json
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\bin\Debug\net9.0\Class20_SocketPrograming.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\bin\Debug\net9.0\Class20_SocketPrograming.dll
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\bin\Debug\net9.0\Class20_SocketPrograming.pdb
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.dll
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\refint\Class20_SocketPrograming.dll
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.pdb
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\Class20_SocketPrograming.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class20_SocketPrograming\obj\Debug\net9.0\ref\Class20_SocketPrograming.dll

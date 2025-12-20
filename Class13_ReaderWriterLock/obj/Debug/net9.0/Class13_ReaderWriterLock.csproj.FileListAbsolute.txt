@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\bin\Debug\net9.0\Class13_ReaderWriterLock.exe
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\bin\Debug\net9.0\Class13_ReaderWriterLock.deps.json
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\bin\Debug\net9.0\Class13_ReaderWriterLock.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\bin\Debug\net9.0\Class13_ReaderWriterLock.dll
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\bin\Debug\net9.0\Class13_ReaderWriterLock.pdb
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.dll
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\refint\Class13_ReaderWriterLock.dll
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.pdb
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\Class13_ReaderWriterLock.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class13_ReaderWriterLock\obj\Debug\net9.0\ref\Class13_ReaderWriterLock.dll

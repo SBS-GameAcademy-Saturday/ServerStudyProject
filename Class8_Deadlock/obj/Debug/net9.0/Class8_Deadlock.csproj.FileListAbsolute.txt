@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\bin\Debug\net9.0\Class8_Deadlock.exe
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\bin\Debug\net9.0\Class8_Deadlock.deps.json
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\bin\Debug\net9.0\Class8_Deadlock.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\bin\Debug\net9.0\Class8_Deadlock.dll
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\bin\Debug\net9.0\Class8_Deadlock.pdb
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.dll
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\refint\Class8_Deadlock.dll
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.pdb
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\Class8_Deadlock.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class8_Deadlock\obj\Debug\net9.0\ref\Class8_Deadlock.dll

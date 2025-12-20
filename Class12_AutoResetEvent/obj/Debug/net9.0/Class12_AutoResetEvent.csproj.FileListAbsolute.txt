@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\bin\Debug\net9.0\Class12_AutoResetEvent.exe
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\bin\Debug\net9.0\Class12_AutoResetEvent.deps.json
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\bin\Debug\net9.0\Class12_AutoResetEvent.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\bin\Debug\net9.0\Class12_AutoResetEvent.dll
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\bin\Debug\net9.0\Class12_AutoResetEvent.pdb
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.dll
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\refint\Class12_AutoResetEvent.dll
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.pdb
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\Class12_AutoResetEvent.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Class12_AutoResetEvent\obj\Debug\net9.0\ref\Class12_AutoResetEvent.dll
