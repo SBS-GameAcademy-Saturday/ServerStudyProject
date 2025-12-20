@@ -28,25 +28,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class13_ReaderWriterLock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class14_ThreadLocalStorage", "Class14_ThreadLocalStorage\Class14_ThreadLocalStorage.csproj", "{A4CC1548-D264-4929-9AC4-1DE3D6C54446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class19_Network", "Class19_Network\Class19_Network.csproj", "{70031892-F384-4665-AF7F-9C81916A7A03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class15_Network", "Class15_Network\Class15_Network.csproj", "{70031892-F384-4665-AF7F-9C81916A7A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class20_SocketPrograming", "Class20_SocketPrograming\Class20_SocketPrograming.csproj", "{A126B62C-AE7E-4502-9318-45C20E6F9B5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class16_SocketPrograming", "Class16_SocketPrograming\Class16_SocketPrograming.csproj", "{A126B62C-AE7E-4502-9318-45C20E6F9B5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class21_Listener", "Class21_Listener\Class21_Listener.csproj", "{F736B2C6-3829-422F-8299-831BC95D5CDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class17_Listener", "Class17_Listener\Class17_Listener.csproj", "{F736B2C6-3829-422F-8299-831BC95D5CDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class22_Session_1", "Class22_Session_1\Class22_Session_1.csproj", "{2C23C589-E706-46F1-9519-9BCF396138F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class18_Session_1", "Class18_Session_1\Class18_Session_1.csproj", "{2C23C589-E706-46F1-9519-9BCF396138F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class23_Session_2_Server", "Class23_Session_2_Server\Class23_Session_2_Server.csproj", "{E17E3950-9492-48D2-AF7F-A860A33979E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class23_Session_2_Client", "Class23_Session_2_Client\Class23_Session_2_Client.csproj", "{7EDF1818-5593-45E3-9C5A-524DC0F89D00}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class23_Session_2", "Class23_Session_2", "{41747871-398D-4A72-AA6D-D4B6D6715AE9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class19_Session_2", "Class19_Session_2", "{41747871-398D-4A72-AA6D-D4B6D6715AE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session_2_NetworkProgramming", "Session_2_NetworkProgramming", "{C2E63EFB-7585-402B-A150-08F8321941C1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session_1_MultiThreadProgramming", "Session_1_MultiThreadProgramming", "{08E55C6B-93F1-423C-BCC1-8025F467E1D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class24_Connector", "Class24_Connector", "{23F644FD-201E-4946-ABE9-5D2ECFBB3AD7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class20_Connector", "Class20_Connector", "{23F644FD-201E-4946-ABE9-5D2ECFBB3AD7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCore", "ServerCore\ServerCore.csproj", "{62D8A45A-A751-476F-8B30-45A04B21DFF0}"
 EndProject
@@ -54,7 +54,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyClient", "DummyClient\DummyClient.csproj", "{5A810FE4-C3AF-4AC6-85E7-2B5D22E08433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class25_TCPvsUDP", "Class25_TCPvsUDP\Class25_TCPvsUDP.csproj", "{99E4476F-1135-48A8-AF62-A0974EC4206F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class21_TCPvsUDP", "Class21_TCPvsUDP\Class21_TCPvsUDP.csproj", "{99E4476F-1135-48A8-AF62-A0974EC4206F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

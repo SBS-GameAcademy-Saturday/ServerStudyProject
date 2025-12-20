@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class12_AutoResetEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45314f2febc9265a6f8b62f8b12a3cdbc09d3832")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46e039d77faf94b09218c9d94b41d741f712e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class12_AutoResetEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class12_AutoResetEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
