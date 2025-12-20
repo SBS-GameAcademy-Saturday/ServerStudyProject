@@ -1,0 +1,15 @@
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\bin\Debug\net9.0\Step1_MultiThread.exe
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\bin\Debug\net9.0\Step1_MultiThread.deps.json
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\bin\Debug\net9.0\Step1_MultiThread.runtimeconfig.json
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\bin\Debug\net9.0\Step1_MultiThread.dll
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\bin\Debug\net9.0\Step1_MultiThread.pdb
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.AssemblyInfoInputs.cache
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.AssemblyInfo.cs
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.sourcelink.json
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.dll
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\refint\Step1_MultiThread.dll
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.pdb
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\Step1_MultiThread.genruntimeconfig.cache
+C:\Users\user\Github\ServerStudyProject\Step1_MultiThread\obj\Debug\net9.0\ref\Step1_MultiThread.dll
