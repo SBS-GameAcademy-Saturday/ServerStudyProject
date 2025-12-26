@@ -104,6 +104,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketGenerator", "Session_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Session_3_Packet_Serialization\Class30_PacketGenerator\Common\Common.csproj", "{BD2E4744-7192-4911-8B2D-B090887A3D0F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session_4_Job_Queue", "Session_4_Job_Queue", "{C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class31_Chatting_Test_1", "Session_4_Job_Queue\Class31_Chatting_Test_1\Class31_Chatting_Test_1.csproj", "{1CBC4340-5685-415D-8B69-9E4480C3404A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class32_Chatting_Test_2", "Session_4_Job_Queue\Class32_Chatting_Test_2\Class32_Chatting_Test_2.csproj", "{CCC48501-9B27-4F5E-A75D-9571F34461B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class33_Command_Pattern", "Session_4_Job_Queue\Class33_Command_Pattern\Class33_Command_Pattern.csproj", "{2DE5F506-6B40-483E-B504-76653E7B0506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class34_JobQueue_1", "Session_4_Job_Queue\Class34_JobQueue_1\Class34_JobQueue_1.csproj", "{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class35_JobQueue_2", "Session_4_Job_Queue\Class35_JobQueue_2\Class35_JobQueue_2.csproj", "{318D38CD-C8B2-4C88-907E-7C585357909A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class36_Packet_Batching", "Session_4_Job_Queue\Class36_Packet_Batching\Class36_Packet_Batching.csproj", "{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class37_JobTimer", "Session_4_Job_Queue\Class37_JobTimer\Class37_JobTimer.csproj", "{A6A84A7B-3371-4A5C-B828-5866975F66B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session_5_Unity_Integration", "Session_5_Unity_Integration", "{CA57549B-9486-41B0-9302-8A5BC0F8FCC3}"
+	ProjectSection(SolutionItems) = preProject
+		Session_5_Unity_Integration\UnityIntegration.md = Session_5_Unity_Integration\UnityIntegration.md
+	EndProjectSection
+EndProject
 
 Global
 				GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -260,6 +281,34 @@ Global
 					{BD2E4744-7192-4911-8B2D-B090887A3D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 					{BD2E4744-7192-4911-8B2D-B090887A3D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 					{BD2E4744-7192-4911-8B2D-B090887A3D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+					{1CBC4340-5685-415D-8B69-9E4480C3404A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{1CBC4340-5685-415D-8B69-9E4480C3404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{1CBC4340-5685-415D-8B69-9E4480C3404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{1CBC4340-5685-415D-8B69-9E4480C3404A}.Release|Any CPU.Build.0 = Release|Any CPU
+					{CCC48501-9B27-4F5E-A75D-9571F34461B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{CCC48501-9B27-4F5E-A75D-9571F34461B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{CCC48501-9B27-4F5E-A75D-9571F34461B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{CCC48501-9B27-4F5E-A75D-9571F34461B6}.Release|Any CPU.Build.0 = Release|Any CPU
+					{2DE5F506-6B40-483E-B504-76653E7B0506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{2DE5F506-6B40-483E-B504-76653E7B0506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{2DE5F506-6B40-483E-B504-76653E7B0506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{2DE5F506-6B40-483E-B504-76653E7B0506}.Release|Any CPU.Build.0 = Release|Any CPU
+					{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+					{318D38CD-C8B2-4C88-907E-7C585357909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{318D38CD-C8B2-4C88-907E-7C585357909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{318D38CD-C8B2-4C88-907E-7C585357909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{318D38CD-C8B2-4C88-907E-7C585357909A}.Release|Any CPU.Build.0 = Release|Any CPU
+					{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5}.Release|Any CPU.Build.0 = Release|Any CPU
+					{A6A84A7B-3371-4A5C-B828-5866975F66B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+					{A6A84A7B-3371-4A5C-B828-5866975F66B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+					{A6A84A7B-3371-4A5C-B828-5866975F66B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{A6A84A7B-3371-4A5C-B828-5866975F66B8}.Release|Any CPU.Build.0 = Release|Any CPU
 				EndGlobalSection
 
 				GlobalSection(NestedProjects) = preSolution
@@ -315,5 +364,12 @@ Global
 					{6D9E2FB8-133E-4735-A9CA-FD3EB0197E3A} = {B0B80343-343B-4390-AFD6-4615CCCC8A00}
 					{17941FDA-1F01-4113-9762-71D5752C1044} = {6D9E2FB8-133E-4735-A9CA-FD3EB0197E3A}
 					{BD2E4744-7192-4911-8B2D-B090887A3D0F} = {6D9E2FB8-133E-4735-A9CA-FD3EB0197E3A}
+					{1CBC4340-5685-415D-8B69-9E4480C3404A} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{CCC48501-9B27-4F5E-A75D-9571F34461B6} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{2DE5F506-6B40-483E-B504-76653E7B0506} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{0866D92E-5CB2-4599-A3AF-FE8FFD10A9C0} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{318D38CD-C8B2-4C88-907E-7C585357909A} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{9E6E3ACE-6EC9-463E-89CA-336C36EB11D5} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
+					{A6A84A7B-3371-4A5C-B828-5866975F66B8} = {C6EF4B91-4516-46E9-AD0F-C4FFB7EDCBF7}
 				EndGlobalSection
 EndGlobal
