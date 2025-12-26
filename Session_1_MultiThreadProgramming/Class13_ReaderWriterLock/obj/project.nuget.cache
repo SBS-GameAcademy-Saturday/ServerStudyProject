@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+3fLi3hRKg=",
+  "dgSpecHash": "QsRyrKcXRk0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Github\\ServerStudyProject\\Session_1_MultiThreadProgramming\\Class13_ReaderWriterLock\\Class13_ReaderWriterLock.csproj",
+  "projectFilePath": "/Users/seobyeongpil/GitHub/ServerStudyProject/Session_1_MultiThreadProgramming/Class13_ReaderWriterLock/Class13_ReaderWriterLock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PDL>
+    <!--
+      ============================================================================
+      Packet Generator - 완전 통합 버전 (Class 38-43)
+      ============================================================================
+      
+      [개요]
+      - PDL (Packet Definition Language) 기반 패킷 정의
+      - 자동 코드 생성 (Packet.cs, ClientPacketManager.cs, ServerPacketManager.cs)
+      - 모든 타입 지원 (기본 타입, string, list)
+      
+      
+      [지원 타입]
+      - bool, byte, short, ushort, int, long, float, double
+      - string (가변 길이)
+      - list (구조체 리스트)
+      
+      
+      [패킷 명명 규칙]
+      - C_: Client → Server
+      - S_: Server → Client
+      
+      
+      [사용 예시]
+      
+      1. 기본 타입 패킷:
+      <packet name="C_Move">
+        <float name="x"/>
+        <float name="y"/>
+        <float name="z"/>
+      </packet>
+      
+      2. 문자열 포함:
+      <packet name="C_Chat">
+        <string name="message"/>
+      </packet>
+      
+      3. 리스트 포함:
+      <packet name="S_PlayerList">
+        <list name="players">
+          <int name="playerId"/>
+          <string name="playerName"/>
+          <float name="x"/>
+          <float name="y"/>
+          <float name="z"/>
+        </list>
+      </packet>
+      
+      4. 복합 패킷:
+      <packet name="S_BroadcastEnterGame">
+        <int name="playerId"/>
+        <string name="playerName"/>
+        <float name="x"/>
+        <float name="y"/>
+        <float name="z"/>
+      </packet>
+    -->
+
+    <!-- ====================================== -->
+    <!-- Client → Server 패킷                   -->
+    <!-- ====================================== -->
+
+    <packet name="C_Chat">
+        <string name="chat"/>
+    </packet>
+
+    <packet name="C_Move">
+        <float name="posX"/>
+        <float name="posY"/>
+        <float name="posZ"/>
+    </packet>
+
+    <packet name="C_Attack">
+        <int name="targetId"/>
+    </packet>
+
+    <packet name="C_Login">
+        <string name="accountName"/>
+        <string name="password"/>
+    </packet>
+
+    <!-- ====================================== -->
+    <!-- Server → Client 패킷                   -->
+    <!-- ====================================== -->
+
+    <packet name="S_BroadcastEnterGame">
+        <int name="playerId"/>
+        <string name="name"/>
+        <float name="posX"/>
+        <float name="posY"/>
+        <float name="posZ"/>
+    </packet>
+
+    <packet name="S_BroadcastLeaveGame">
+        <int name="playerId"/>
+    </packet>
+
+    <packet name="S_PlayerList">
+        <list name="players">
+            <bool name="isSelf"/>
+            <int name="playerId"/>
+            <string name="name"/>
+            <float name="posX"/>
+            <float name="posY"/>
+            <float name="posZ"/>
+        </list>
+    </packet>
+
+    <packet name="S_BroadcastMove">
+        <int name="playerId"/>
+        <float name="posX"/>
+        <float name="posY"/>
+        <float name="posZ"/>
+    </packet>
+
+    <packet name="S_BroadcastAttack">
+        <int name="playerId"/>
+        <int name="targetId"/>
+    </packet>
+
+    <packet name="S_Chat">
+        <int name="playerId"/>
+        <string name="chat"/>
+    </packet>
+
+    <packet name="S_LoginOk">
+        <int name="playerId"/>
+        <string name="name"/>
+        <float name="posX"/>
+        <float name="posY"/>
+        <float name="posZ"/>
+    </packet>
+
+</PDL>

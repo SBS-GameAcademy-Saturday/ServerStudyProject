@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class14_ThreadLocalStorage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ee59580985a8f32fb3e2f92424024e07c2a1e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47507c0125f0da9feac289f9af2feb5decfcf546")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class14_ThreadLocalStorage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class14_ThreadLocalStorage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

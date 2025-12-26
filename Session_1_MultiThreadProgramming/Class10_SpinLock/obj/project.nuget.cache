@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQpOgJK7gJc=",
+  "dgSpecHash": "hO4Z4zozQIw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Github\\ServerStudyProject\\Session_1_MultiThreadProgramming\\Class10_SpinLock\\Class10_SpinLock.csproj",
+  "projectFilePath": "/Users/seobyeongpil/GitHub/ServerStudyProject/Session_1_MultiThreadProgramming/Class10_SpinLock/Class10_SpinLock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
